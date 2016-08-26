@@ -1,5 +1,9 @@
 # africastalking-node.js
-Official AfricasTalking node.js API wrapper
+AfricasTalking node.js Sandbox API wrapper
+
+
+### About
+This is a wrapper for the Africa's Talking Sandbox API. It tracks the [Official Africa's talking API](https://github.com/AfricasTalkingLtd/africastalking-node.js). The documentation provided here is the same. 
 
 ### Install
 
