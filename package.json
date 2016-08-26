@@ -1,5 +1,5 @@
 {
-  "name": "africastalking",
+  "name": "atsandbox",
   "version": "0.0.7",
   "description": "AfricasTalking node.js Sandbox API wrapper",
   "main": "lib/index.js",
