@@ -1,4 +1,4 @@
-# africastalking-node.js
+# africastalking sandbox-node.js
 AfricasTalking node.js Sandbox API wrapper
 
 
