@@ -8,7 +8,7 @@ This is a wrapper for the Africa's Talking Sandbox API. It tracks the [Official 
 ### Install
 
 ```bash
-$ npm install --save africastalking
+$ npm install --save atsandbox
 ```
 
 ### Initialization
